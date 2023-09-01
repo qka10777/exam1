@@ -19,6 +19,12 @@ public class Loop_c {
         int score = 0;
 
         // 출력 : 4
+        for(int i = time; i < 90; i = i + 5) {
+            score = score + 1;
+        }
+
+        System.out.println(score);
+
 
 
 

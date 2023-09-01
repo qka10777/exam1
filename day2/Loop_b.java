@@ -12,6 +12,9 @@ public class Loop_b {
         //...
         //100
 
+        for(int j = 2; j <= 100; j = j + 2) {
+            System.out.println(j);
+        }
         // 문제1. 1 ~ 100까지 수를 출력하는데 숫자 뒤에 짝수는 even, 홀수는 odd를 붙여서 출력
         //1:odd
         //2:even
@@ -23,6 +26,14 @@ public class Loop_b {
         //8:even
         //...
         //100:even
+        for(int j = 1; j <= 100; j++) {
+            if(j % 2 == 0) {
+                System.out.println("even");
+            }
+            else {
+                System.out.println("odd");
+            }
+        }
 
 
 
