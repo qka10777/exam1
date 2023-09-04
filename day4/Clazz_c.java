@@ -2,11 +2,11 @@ package day4;
 
 public class Clazz_c {
     public static void main(String[] args) {
-        Person p1 = new Person();
+        Person1 p1 = new Person1();
         p1.name = "홍길동";
         p1.age = 27;
 
-        Person p2 = new Person();
+        Person1 p2 = new Person1();
         p2.name = "홍길순";
         p2.age = 25;
 
@@ -75,7 +75,7 @@ public class Clazz_c {
 
 // ===========================================================
 // Person, Car, Cat, Warrior 클래스 만들기
-class Person {
+class Person1 {
     int age;
     String name;
 
