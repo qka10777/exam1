@@ -1,4 +1,4 @@
-package day4;
+package day4.Class;
 
 public class Clazz_b {
         public static void main(String[] args) {

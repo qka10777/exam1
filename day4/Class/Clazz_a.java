@@ -1,4 +1,4 @@
-package day4;
+package day4.Class;
 // 문제 : 자동차가 3번 달리게 해주세요.
 // 출력 : 자동차가 달립니다.
 public class Clazz_a {
