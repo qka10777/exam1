@@ -1,11 +1,24 @@
 //package day3;
 //
 //public class FunctionReturn_c {
-//    public static void greeting1(int num) {
-//        int
+//    public static void greeting1(int lang) {
+//		if(lang == 1) {
+//			System.out.println("안녕하세요");
+//		} else if(lang == 2) {
+//			System.out.println("하이");
+//		} else if(lang == 3) {
+//			System.out.println("봉쥬");
+//		}
+//	}
+//
+//	public static void greeting2(int lang, int cnt) {
+//
+//		for(int i = 0; i < cnt; i++) {
+//			greeting1(lang);
 //
 //
-//    }
+//
+//
 //}
 //
 //    public static void main(String[] args) {

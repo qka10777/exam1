@@ -5,15 +5,7 @@ public class FunctionReturn_a {
         for(int i = 1; i <= 5; i++) {
             System.out.println("안녕하세요. 저는 20살 홍길동입니다.!");
         }
-
-
-
-
     }
-
-
-
-
 public static void main(String[] args) {
         introduce();
 
