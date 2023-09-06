@@ -26,7 +26,7 @@ class 사람 {
 
 
     void 걷다(int age) {
-        this.= 22;
+
 
 
         System.out.println(나이 + "살인 홍길동씨가 걷습니다.");
